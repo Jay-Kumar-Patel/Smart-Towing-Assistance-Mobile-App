@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216325887854",
+    "project_id": "scan-the-tow",
+    "storage_bucket": "scan-the-tow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216325887854:android:463f5d0e039222bd33937f",
+        "android_client_info": {
+          "package_name": "com.example.scan_the_tow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216325887854-p4einhu2jfpdijb34pii4qm6l9l7cbg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi9PbavBZsWmP4c5fpjYmeVLCLT9XfPX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216325887854-p4einhu2jfpdijb34pii4qm6l9l7cbg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartTow</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title">Alert Dialog</string>
+    <string name="message">Are you Sure you want to exit?</string>
+</resources>
